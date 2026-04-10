@@ -18,16 +18,6 @@
 
 ---
 
-## 🛠️ Instalación
-
-| Sistema | Enlace |
-|---|---|
-| Windows | https://windows.github.com |
-| Mac | https://mac.github.com |
-| Linux / POSIX | http://git-scm.com |
-
----
-
 ## ⚙️ Configuración inicial
 
 Antes de nada, configura tu identidad. Solo necesitas hacerlo una vez.
